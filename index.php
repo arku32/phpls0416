@@ -11,8 +11,14 @@ class World
      */
     public function hello()
     {
-        return 'Hello, World!';
+        return 'Hello, World, and all my friends!;
+
     }
 }
 // Hello
+
 //hello 1111
+
+echo "Это все, что останется после меня. ";
+echo "Придумайте мне псевдоним!) я Миша Никула  =)";
+
