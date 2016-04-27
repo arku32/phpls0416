@@ -11,7 +11,7 @@ class World
      */
     public function hello()
     {
-        return 'Hello, World, and all my friends!;
+        return 'Hello, World, and all my friends!';
 
     }
 }
