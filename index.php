@@ -28,3 +28,4 @@ echo "Это всё, G что возьму D я с собой C D";
 echo "Две мечты, да печали стакан";
 echo "Привет с помощью SSH";
 // test commit from phpstorm (terminal)
+// phpstorm commit
