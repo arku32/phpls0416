@@ -14,6 +14,8 @@ class World
         return 'Hello, World!';
     }
 }
+// Класс не тронЬте, хорошая штука, потом поймёте! ;)
+
 // Hello
 
 //hello 13579333
