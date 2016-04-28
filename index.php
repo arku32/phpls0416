@@ -1,6 +1,5 @@
 <?php
 
-<<<<<<< HEAD
 /**
  * Class World
  */
@@ -33,6 +32,3 @@ echo "Привет с помощью SSH";
 echo "Max 135793333";
 // test commit from phpstorm (terminal)
 // phpstorm commit
-=======
-echo Первый:);
->>>>>>> 669c918431f528e9a6118564fcee17639842bf44
