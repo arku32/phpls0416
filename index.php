@@ -28,6 +28,7 @@ class World
 
 //hello 13579333
 
+$str = "error";
 echo "Это все, что останется после меня. ";
 echo "Придумайте мне псевдоним!) я Миша Никула  =)";
 echo "Здесь был Миша Бурдужа";
@@ -48,3 +49,4 @@ echo "hello world";
 echo "To be or not to be";
 echo "Push with Terminal + SHH";
 echo "19375";
+echo "hello 1980";
