@@ -28,6 +28,7 @@ class World
 
 //hello 13579333
 
+$str = "error";
 echo "Это все, что останется после меня. ";
 echo "Придумайте мне псевдоним!) я Миша Никула  =)";
 echo "Здесь был Миша Бурдужа";
@@ -46,3 +47,4 @@ echo "Max 135793333";
 echo "9371911 Hello, World via SSH";
 echo "hello world";
 echo "19375";
+echo "hello 1980";
