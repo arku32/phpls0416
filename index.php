@@ -41,6 +41,7 @@ echo "Это всё, G что возьму D я с собой C D";
 echo "Две мечты, да печали стакан";
 echo "Место для вашей рекламы! 8 800 555 35 35";
 echo "Привет с помощью SSH";
+//asd
 echo "Max 135793333";
 // test commit from phpstorm (terminal)
 // phpstorm commit
